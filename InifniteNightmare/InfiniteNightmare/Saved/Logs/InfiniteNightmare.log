@@ -553,3 +553,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.13-09.35.57:541][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
 [2020.06.13-09.35.57:543][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.06.13-09.36.01:583][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-09.36.46:828][695]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.13-09.36.48:978][695]LogSlate: Window 'Save Level As' being destroyed
+[2020.06.13-09.36.48:994][695]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.13-09.36.49:051][695]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.06.13-09.36.49:085][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.06.13-09.36.49:234][695]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InifniteNightmare/InfiniteNightmare/Saved/NewMap29CAD60547DB1AC3E14C038B59883A73.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InifniteNightmare/InfiniteNightmare/Content/Test/NewMap.umap'
+[2020.06.13-09.36.49:268][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/NewMap_BuiltData" FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InifniteNightmare/InfiniteNightmare/Content/Test/NewMap_BuiltData.uasset" SILENT=true
+[2020.06.13-09.36.49:290][695]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InifniteNightmare/InfiniteNightmare/Saved/NewMap_BuiltDataBC405811437767F77D80EF9102A9CCEC.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InifniteNightmare/InfiniteNightmare/Content/Test/NewMap_BuiltData.uasset'
+[2020.06.13-09.36.49:306][695]LogFileHelpers: Saving map 'NewMap' took 0.317
+[2020.06.13-09.36.56:711][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.06.13-09.36.56:856][ 60]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InifniteNightmare/InfiniteNightmare/Saved/NewMap588853FB48F229D4AE82248DE716ABDB.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InifniteNightmare/InfiniteNightmare/Content/Test/NewMap.umap'
+[2020.06.13-09.36.56:871][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/NewMap_BuiltData" FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InifniteNightmare/InfiniteNightmare/Content/Test/NewMap_BuiltData.uasset" SILENT=true
+[2020.06.13-09.36.56:897][ 60]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InifniteNightmare/InfiniteNightmare/Saved/NewMap_BuiltData13410AE84AD3E78484F4D9B47016F87D.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InifniteNightmare/InfiniteNightmare/Content/Test/NewMap_BuiltData.uasset'
+[2020.06.13-09.36.57:498][128]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={CFB6806B-4BB8-F7FD-6B72-36BB25FF8A45}
+[2020.06.13-09.36.57:498][128]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={ECA05A9B-41F2-08C1-754D-C19BE55EB864}
+[2020.06.13-09.36.57:498][128]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={A7EEADE2-401C-B771-352A-91B87CE447E4}
