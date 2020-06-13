@@ -554,3 +554,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.13-09.17.23:274][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.06.13-09.17.28:126][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.06.13-09.17.30:794][572]LogSlate: Window 'Save Level As' being destroyed
+[2020.06.13-09.21.39:159][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-09.24.17:177][441]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.13-09.24.19:614][441]LogSlate: Window 'Save Level As' being destroyed
+[2020.06.13-09.24.19:631][441]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.13-09.24.19:696][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.06.13-09.24.19:698][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InifniteNightmare/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.13-09.24.19:733][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.06.13-09.24.19:879][441]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InifniteNightmare/Saved/NewMapEE73396646E4574781FB62AE4EDEDF84.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InifniteNightmare/Content/NewMap.umap'
+[2020.06.13-09.24.19:921][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InifniteNightmare/Content/NewMap_BuiltData.uasset" SILENT=true
+[2020.06.13-09.24.19:943][441]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InifniteNightmare/Saved/NewMap_BuiltData69A73F2B4ADAA0A9863C5E92374A6ABB.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InifniteNightmare/Content/NewMap_BuiltData.uasset'
+[2020.06.13-09.24.19:958][441]LogFileHelpers: Saving map 'NewMap' took 0.331
