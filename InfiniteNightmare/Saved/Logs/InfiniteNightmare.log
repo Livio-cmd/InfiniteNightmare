@@ -1498,3 +1498,1480 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.13-12.09.13:370][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MenuMap" FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/MenuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2020.06.13-12.09.13:418][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
 [2020.06.13-12.09.13:695][ 60]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/MenuMap74D0E0FB4A11F967912047B79BC1E5D4.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/MenuMap.umap'
+[2020.06.13-12.10.20:948][260]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.10.20:983][260]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.10.20:983][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.10.20:983][260]PIE: New page: PIE session: MenuMap (13 juin 2020 16:10:20)
+[2020.06.13-12.10.20:983][260]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.10.20:984][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001180s)
+[2020.06.13-12.10.20:985][260]LogAIModule: Creating AISystem for world MenuMap
+[2020.06.13-12.10.20:986][260]LogPlayLevel: PIE: World Init took: (0.001569s)
+[2020.06.13-12.10.20:986][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuMap.MenuMap to /Game/Maps/UEDPIE_0_MenuMap.MenuMap (0.002959s)
+[2020.06.13-12.10.21:036][260]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.06.13-12.10.21:104][260]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.10.21:122][260]LogInit: FAudioDevice initialized.
+[2020.06.13-12.10.21:133][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.10.21:133][260]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.10.21:134][260]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 0) at 2020.06.13-14.10.21
+[2020.06.13-12.10.21:135][260]LogWorld: Bringing up level for play took: 0.000522
+[2020.06.13-12.10.21:135][260]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.06.13-12.10.21:143][260]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MenuMap 0,296
+[2020.06.13-12.10.21:143][260]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.10.23:823][536]Cmd: r.SetRes 800x600
+[2020.06.13-12.10.23:823][536]r.SetRes = "800x600"
+[2020.06.13-12.10.33:621][454]Cmd: r.SetRes 1080x720
+[2020.06.13-12.10.33:622][454]r.SetRes = "1080x720"
+[2020.06.13-12.10.34:493][553]Cmd: r.SetRes 1920x1080
+[2020.06.13-12.10.34:493][553]r.SetRes = "1920x1080"
+[2020.06.13-12.10.35:368][653]Cmd: r.SetRes 1080x720
+[2020.06.13-12.10.35:369][653]r.SetRes = "1080x720"
+[2020.06.13-12.10.37:440][894]LogNet: Browse: /Game/Maps/PrincipalMap
+[2020.06.13-12.10.37:440][894]LogLoad: LoadMap: /Game/Maps/PrincipalMap
+[2020.06.13-12.10.37:440][894]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.10.37:441][894]LogWorld: UWorld::CleanupWorld for MenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.10.37:490][894]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.06.13-12.10.37:501][894]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.10.37:502][894]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.10.37:504][894]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.10.37
+[2020.06.13-12.10.37:504][894]LogWorld: Bringing up level for play took: 0.001597
+[2020.06.13-12.10.37:506][894]LogLoad: Took 0.066063 seconds to LoadMap(/Game/Maps/PrincipalMap)
+[2020.06.13-12.10.39:436][112]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.10.39:437][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.10.39:437][112]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.10.39:456][112]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.10.39:468][112]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.10.39:477][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.10.39:477][112]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.10.39:544][112]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.06.13-12.10.39:559][113]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.06.13-12.11.39:479][961]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.11.39:514][961]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.11.39:514][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.11.39:514][961]PIE: New page: PIE session: MenuMap (13 juin 2020 16:11:39)
+[2020.06.13-12.11.39:514][961]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.11.39:515][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001124s)
+[2020.06.13-12.11.39:516][961]LogAIModule: Creating AISystem for world MenuMap
+[2020.06.13-12.11.39:516][961]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2020.06.13-12.11.39:516][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuMap.MenuMap to /Game/Maps/UEDPIE_0_MenuMap.MenuMap (0.002315s)
+[2020.06.13-12.11.39:564][961]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.06.13-12.11.39:629][961]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.11.39:645][961]LogInit: FAudioDevice initialized.
+[2020.06.13-12.11.39:654][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.11.39:654][961]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.11.39:655][961]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 0) at 2020.06.13-14.11.39
+[2020.06.13-12.11.39:656][961]LogWorld: Bringing up level for play took: 0.000548
+[2020.06.13-12.11.39:656][961]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.06.13-12.11.39:663][961]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MenuMap 0,816
+[2020.06.13-12.11.39:663][961]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.11.41:352][149]Cmd: r.SetRes 800x600
+[2020.06.13-12.11.41:353][149]r.SetRes = "800x600"
+[2020.06.13-12.11.42:148][239]Cmd: r.SetRes 1080x720
+[2020.06.13-12.11.42:148][239]r.SetRes = "1080x720"
+[2020.06.13-12.11.43:015][337]Cmd: r.SetRes 1920x1080
+[2020.06.13-12.11.43:015][337]r.SetRes = "1920x1080"
+[2020.06.13-12.11.44:368][493]LogNet: Browse: /Game/Maps/PrincipalMap
+[2020.06.13-12.11.44:368][493]LogLoad: LoadMap: /Game/Maps/PrincipalMap
+[2020.06.13-12.11.44:368][493]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.11.44:369][493]LogWorld: UWorld::CleanupWorld for MenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.11.44:423][493]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.06.13-12.11.44:433][493]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.11.44:433][493]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.11.44:435][493]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.11.44
+[2020.06.13-12.11.44:436][493]LogWorld: Bringing up level for play took: 0.001546
+[2020.06.13-12.11.44:438][493]LogLoad: Took 0.069956 seconds to LoadMap(/Game/Maps/PrincipalMap)
+[2020.06.13-12.12.22:626][304]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.12.22:627][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.12.22:627][304]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.12.22:647][304]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.12.22:658][304]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.12.22:671][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.12.22:671][304]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.12.22:737][304]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.06.13-12.12.22:752][305]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.06.13-12.12.33:687][551]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.12.33:692][551]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/PrincipalMap.PrincipalMap
+[2020.06.13-12.12.33:741][551]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.06.13-12.12.35:343][551]LogSlate: Window 'Save Content' being destroyed
+[2020.06.13-12.12.35:359][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Resources/1080" FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/Resources/1080.uasset" SILENT=true
+[2020.06.13-12.12.35:372][551]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/1080A3C0630F4EF6A57B8321EBA47B6FF67D.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/Resources/1080.uasset'
+[2020.06.13-12.12.35:384][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Resources/1080_Hovered" FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/Resources/1080_Hovered.uasset" SILENT=true
+[2020.06.13-12.12.35:399][551]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/1080_Hovered0234960F4B37A7E6BF51A4BEE18D4AF6.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/Resources/1080_Hovered.uasset'
+[2020.06.13-12.12.35:411][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Resources/720" FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/Resources/720.uasset" SILENT=true
+[2020.06.13-12.12.35:424][551]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/720E7930CD841064964801E07B6E24E8D78.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/Resources/720.uasset'
+[2020.06.13-12.12.35:435][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Resources/720_Hovered" FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/Resources/720_Hovered.uasset" SILENT=true
+[2020.06.13-12.12.35:447][551]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/720_HoveredEA2CAC7344E1366F814F8F8A84B0EC20.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/Resources/720_Hovered.uasset'
+[2020.06.13-12.12.35:460][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Resources/800" FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/Resources/800.uasset" SILENT=true
+[2020.06.13-12.12.35:473][551]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/80033B7F71043E88001C5F761B85A8A9CE1.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/Resources/800.uasset'
+[2020.06.13-12.12.35:484][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Resources/800_Hovered" FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/Resources/800_Hovered.uasset" SILENT=true
+[2020.06.13-12.12.35:497][551]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/800_Hovered11D4900C4E64850C03A8ED9B2DFA6943.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/Resources/800_Hovered.uasset'
+[2020.06.13-12.12.35:505][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Resources/Retour" FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/Resources/Retour.uasset" SILENT=true
+[2020.06.13-12.12.35:517][551]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/Retour5067169B474376EB0D3D6E91F83C1DAC.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/Resources/Retour.uasset'
+[2020.06.13-12.12.35:525][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/Resources/Retour_Hovered" FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/Resources/Retour_Hovered.uasset" SILENT=true
+[2020.06.13-12.12.35:536][551]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/Retour_HoveredB448830146796762DA7F4EB141A0292B.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/Resources/Retour_Hovered.uasset'
+[2020.06.13-12.12.35:541][551]Cmd: MAP LOAD FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/PrincipalMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.13-12.12.35:541][551]LightingResults: New page: Lighting Build
+[2020.06.13-12.12.35:542][551]LoadErrors: New page: Loading map: PrincipalMap.umap
+[2020.06.13-12.12.35:576][551]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.12.35:633][551]LogWorld: UWorld::CleanupWorld for MenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.12.35:633][551]MapCheck: New page: Map Check
+[2020.06.13-12.12.35:633][551]LightingResults: New page: Lighting Build
+[2020.06.13-12.12.35:683][551]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.06.13-12.12.35:688][551]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.13-12.12.35:735][551]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2020.06.13-12.12.35:771][551]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.13-12.12.35:772][551]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,177ms to complete.
+[2020.06.13-12.12.35:772][551]LogFileHelpers: Loading map 'PrincipalMap' took 0.233
+[2020.06.13-12.12.37:132][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.06.13-12.12.39:017][873]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.06.13-12.12.39:124][873]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.13-12.12.42:671][168]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.13-12.12.42:682][168]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap
+[2020.06.13-12.13.11:870][444]BlueprintLog: New page: Compile PrincipalMap
+[2020.06.13-12.13.12:180][444]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.06.13-12.13.12:538][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.06.13-12.13.12:841][475]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/PrincipalMapCEC8C5B24A4D20B749D676810E11379A.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/PrincipalMap.umap'
+[2020.06.13-12.13.12:882][475]LogFileHelpers: Saving map 'PrincipalMap' took 0.396
+[2020.06.13-12.13.14:634][658]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.13.14:667][658]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.13.14:667][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.13.14:667][658]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:13:14)
+[2020.06.13-12.13.14:667][658]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.13.14:670][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003019s)
+[2020.06.13-12.13.14:671][658]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.13.14:672][658]LogPlayLevel: PIE: World Init took: (0.001966s)
+[2020.06.13-12.13.14:672][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.005346s)
+[2020.06.13-12.13.14:723][658]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2020.06.13-12.13.14:791][658]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.13.14:806][658]LogInit: FAudioDevice initialized.
+[2020.06.13-12.13.14:817][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.13.14:817][658]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.13.14:818][658]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.13.14
+[2020.06.13-12.13.14:818][658]LogWorld: Bringing up level for play took: 0.000704
+[2020.06.13-12.13.14:819][658]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2020.06.13-12.13.14:826][658]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap -0,021
+[2020.06.13-12.13.14:826][658]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.13.22:495][551]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.13.22:495][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.13.22:495][551]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.13.22:515][551]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.13.22:528][551]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.13.22:542][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.13.22:543][551]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.13.22:606][551]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.06.13-12.13.22:624][552]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.06.13-12.13.26:854][ 37]BlueprintLog: New page: Compile PrincipalMap
+[2020.06.13-12.13.27:168][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2020.06.13-12.13.27:586][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.06.13-12.13.27:890][ 76]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/PrincipalMapAFB19D534C08293F77AB4D83D18036F6.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/PrincipalMap.umap'
+[2020.06.13-12.13.27:933][ 76]LogFileHelpers: Saving map 'PrincipalMap' took 0.399
+[2020.06.13-12.13.31:043][443]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.13.38:572][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.14.05:912][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.14.05:995][858]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.14.06:030][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.14.06:030][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.14.06:030][858]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:14:06)
+[2020.06.13-12.14.06:030][858]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.14.06:033][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003057s)
+[2020.06.13-12.14.06:034][858]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.14.06:034][858]LogPlayLevel: PIE: World Init took: (0.001360s)
+[2020.06.13-12.14.06:035][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.004642s)
+[2020.06.13-12.14.06:080][858]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.06.13-12.14.06:146][858]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.14.06:162][858]LogInit: FAudioDevice initialized.
+[2020.06.13-12.14.06:172][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.14.06:173][858]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.14.06:174][858]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.14.06
+[2020.06.13-12.14.06:174][858]LogWorld: Bringing up level for play took: 0.000733
+[2020.06.13-12.14.06:174][858]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2020.06.13-12.14.06:181][858]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap -0,666
+[2020.06.13-12.14.06:181][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.14.25:953][201]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.14.25:953][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.14.25:953][201]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.14.25:973][201]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.14.25:980][201]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.14.25:990][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.14.25:990][201]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.14.26:050][201]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.06.13-12.14.26:068][202]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.06.13-12.14.30:217][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.14.42:187][ 10]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.14.42:230][ 10]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.14.53:476][174]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={052B9381-4FEF-9066-FB71-E5803F840948}
+[2020.06.13-12.16.12:069][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.06.13-12.16.14:161][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.16.28:634][127]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.06.13-12.16.29:961][279]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.06.13-12.16.31:829][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.06.13-12.16.36:674][ 19]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2020.06.13-12.16.37:779][141]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.06.13-12.16.37:826][141]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.13-12.16.40:616][406]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.13-12.16.40:632][406]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap
+[2020.06.13-12.16.47:761][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.06.13-12.16.48:585][253]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2020.06.13-12.16.51:079][532]LogEditorViewport: Clicking on Actor (context menu): TriggerBox (TriggerBox)
+[2020.06.13-12.16.51:103][532]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.13-12.16.53:677][786]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.13-12.17.14:873][256]BlueprintLog: New page: Compile PrincipalMap
+[2020.06.13-12.17.15:219][256]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.06.13-12.17.15:633][293]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.06.13-12.17.15:905][293]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/PrincipalMapADF6F7E442B7E6783F723FAF54418F5D.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/PrincipalMap.umap'
+[2020.06.13-12.17.15:946][293]LogFileHelpers: Saving map 'PrincipalMap' took 0.376
+[2020.06.13-12.17.18:802][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.17.18:904][622]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.17.18:929][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.17.18:930][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.17.18:930][622]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:17:18)
+[2020.06.13-12.17.18:930][622]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.17.18:933][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003542s)
+[2020.06.13-12.17.18:935][622]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.17.18:935][622]LogPlayLevel: PIE: World Init took: (0.001550s)
+[2020.06.13-12.17.18:935][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.005329s)
+[2020.06.13-12.17.18:973][622]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.06.13-12.17.19:039][622]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.17.19:055][622]LogInit: FAudioDevice initialized.
+[2020.06.13-12.17.19:065][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.17.19:065][622]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.17.19:066][622]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.17.19
+[2020.06.13-12.17.19:094][622]LogWorld: Bringing up level for play took: 0.028093
+[2020.06.13-12.17.19:094][622]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2020.06.13-12.17.19:100][622]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap 0,253
+[2020.06.13-12.17.19:101][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.17.24:614][267]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.17.24:614][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.17.24:614][267]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.17.24:633][267]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.17.24:645][267]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.17.24:653][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.17.24:654][267]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.17.24:714][267]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.06.13-12.17.24:732][268]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.06.13-12.17.32:515][164]BlueprintLog: New page: Compile PrincipalMap
+[2020.06.13-12.17.32:786][164]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.06.13-12.17.33:149][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.06.13-12.17.33:413][198]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/PrincipalMap37ECD1BC4CD9FD301E1BC6A4E880CCEB.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/PrincipalMap.umap'
+[2020.06.13-12.17.33:456][198]LogFileHelpers: Saving map 'PrincipalMap' took 0.347
+[2020.06.13-12.17.33:911][249]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.17.33:938][249]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.17.33:938][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.17.33:938][249]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:17:33)
+[2020.06.13-12.17.33:939][249]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.17.33:942][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003572s)
+[2020.06.13-12.17.33:943][249]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.17.33:943][249]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2020.06.13-12.17.33:943][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.004962s)
+[2020.06.13-12.17.33:983][249]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.06.13-12.17.34:048][249]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.17.34:063][249]LogInit: FAudioDevice initialized.
+[2020.06.13-12.17.34:073][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.17.34:073][249]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.17.34:074][249]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.17.34
+[2020.06.13-12.17.34:075][249]LogWorld: Bringing up level for play took: 0.001103
+[2020.06.13-12.17.34:075][249]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2020.06.13-12.17.34:080][249]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap -0,767
+[2020.06.13-12.17.34:081][249]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.17.39:479][888]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.17.39:479][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.17.39:479][888]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.17.39:500][888]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.17.39:514][888]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.17.39:523][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.17.39:523][888]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.17.39:579][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.06.13-12.17.39:599][889]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.06.13-12.18.05:215][906]BlueprintLog: New page: Compile PrincipalMap
+[2020.06.13-12.18.05:485][906]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2020.06.13-12.18.06:033][962]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.06.13-12.18.06:304][962]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/PrincipalMap25B117E54ACA15E435DD73834BEA3331.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/PrincipalMap.umap'
+[2020.06.13-12.18.06:345][962]LogFileHelpers: Saving map 'PrincipalMap' took 0.353
+[2020.06.13-12.18.08:008][152]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.18.08:033][152]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.18.08:033][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.18.08:033][152]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:18:08)
+[2020.06.13-12.18.08:033][152]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.18.08:037][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003505s)
+[2020.06.13-12.18.08:038][152]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.18.08:038][152]LogPlayLevel: PIE: World Init took: (0.001542s)
+[2020.06.13-12.18.08:038][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.005253s)
+[2020.06.13-12.18.08:077][152]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.06.13-12.18.08:142][152]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.18.08:159][152]LogInit: FAudioDevice initialized.
+[2020.06.13-12.18.08:167][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.18.08:168][152]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.18.08:169][152]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.18.08
+[2020.06.13-12.18.08:170][152]LogWorld: Bringing up level for play took: 0.000889
+[2020.06.13-12.18.08:170][152]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2020.06.13-12.18.08:175][152]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap -0,671
+[2020.06.13-12.18.08:176][152]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.18.12:684][683]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.18.12:685][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.18.12:685][683]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.18.12:703][683]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.18.12:715][683]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.18.12:725][683]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.18.12:725][683]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.18.12:781][683]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.06.13-12.18.12:801][684]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.06.13-12.20.05:056][874]BlueprintLog: New page: Compile PrincipalMap
+[2020.06.13-12.20.05:327][874]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.06.13-12.20.05:928][936]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.06.13-12.20.06:191][936]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/PrincipalMap9553649B4AAD9D0D57DB90995652E689.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/PrincipalMap.umap'
+[2020.06.13-12.20.06:233][936]LogFileHelpers: Saving map 'PrincipalMap' took 0.350
+[2020.06.13-12.20.07:328][ 64]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.20.07:355][ 64]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.20.07:355][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.20.07:355][ 64]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:20:07)
+[2020.06.13-12.20.07:355][ 64]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.20.07:359][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003149s)
+[2020.06.13-12.20.07:360][ 64]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.20.07:360][ 64]LogPlayLevel: PIE: World Init took: (0.001394s)
+[2020.06.13-12.20.07:360][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.004722s)
+[2020.06.13-12.20.07:399][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.06.13-12.20.07:465][ 64]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.20.07:481][ 64]LogInit: FAudioDevice initialized.
+[2020.06.13-12.20.07:490][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.20.07:491][ 64]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.20.07:492][ 64]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.20.07
+[2020.06.13-12.20.07:492][ 64]LogWorld: Bringing up level for play took: 0.000969
+[2020.06.13-12.20.07:493][ 64]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2020.06.13-12.20.07:498][ 64]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap 0,651
+[2020.06.13-12.20.07:498][ 64]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.20.13:329][756]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.20.13:329][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.20.13:329][756]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.20.13:349][756]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.20.13:363][756]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.20.13:372][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.20.13:373][756]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.20.13:428][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.06.13-12.20.13:447][757]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.06.13-12.20.15:588][ 10]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.06.13-12.20.17:864][275]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.06.13-12.20.18:714][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.20.18:790][375]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.20.18:816][375]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.20.18:816][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.20.18:816][375]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:20:18)
+[2020.06.13-12.20.18:816][375]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.20.18:820][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003337s)
+[2020.06.13-12.20.18:821][375]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.20.18:821][375]LogPlayLevel: PIE: World Init took: (0.001405s)
+[2020.06.13-12.20.18:821][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.005031s)
+[2020.06.13-12.20.18:859][375]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.06.13-12.20.18:927][375]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.20.18:942][375]LogInit: FAudioDevice initialized.
+[2020.06.13-12.20.18:951][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.20.18:952][375]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.20.18:953][375]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.20.18
+[2020.06.13-12.20.18:953][375]LogWorld: Bringing up level for play took: 0.000766
+[2020.06.13-12.20.18:953][375]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2020.06.13-12.20.18:960][375]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap 0,113
+[2020.06.13-12.20.18:960][375]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.20.20:795][584]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.20.20:795][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.20.20:795][584]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.20.20:815][584]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.20.20:828][584]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.20.20:839][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.20.20:840][584]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.20.20:894][584]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.06.13-12.20.20:912][585]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.06.13-12.20.35:720][284]BlueprintLog: New page: Compile PrincipalMap
+[2020.06.13-12.20.35:989][284]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.06.13-12.20.36:463][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.06.13-12.20.36:723][331]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/PrincipalMap5E1EF4414A34DFBD53CE3ABC117217FF.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/PrincipalMap.umap'
+[2020.06.13-12.20.36:765][331]LogFileHelpers: Saving map 'PrincipalMap' took 0.347
+[2020.06.13-12.21.41:400][909]BlueprintLog: New page: Compile PrincipalMap
+[2020.06.13-12.21.41:668][909]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.06.13-12.21.42:301][976]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.06.13-12.21.42:564][976]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/PrincipalMap9985B0A6412C72E176079D9D0E093257.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/PrincipalMap.umap'
+[2020.06.13-12.21.42:605][976]LogFileHelpers: Saving map 'PrincipalMap' took 0.346
+[2020.06.13-12.21.47:465][554]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2020.06.13-12.21.49:858][823]Cmd: DELETE
+[2020.06.13-12.21.49:858][823]Cmd: ACTOR DELETE
+[2020.06.13-12.21.49:923][823]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.13-12.21.51:228][823]LogSlate: Window 'Message' being destroyed
+[2020.06.13-12.21.51:251][823]LogEditorActor: Deleted Actor: TriggerBox
+[2020.06.13-12.21.51:301][823]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.06.13-12.21.51:302][823]LogEditorActor: Deleted 1 Actors (0.108 secs)
+[2020.06.13-12.21.54:094][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.21.54:523][193]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.21.54:550][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.21.54:550][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.21.54:550][193]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:21:54)
+[2020.06.13-12.21.54:550][193]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.21.54:554][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003149s)
+[2020.06.13-12.21.54:555][193]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.21.54:555][193]LogPlayLevel: PIE: World Init took: (0.001598s)
+[2020.06.13-12.21.54:555][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.004917s)
+[2020.06.13-12.21.54:595][193]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.06.13-12.21.54:660][193]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.21.54:675][193]LogInit: FAudioDevice initialized.
+[2020.06.13-12.21.54:684][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.21.54:685][193]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.21.54:686][193]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.21.54
+[2020.06.13-12.21.54:686][193]LogWorld: Bringing up level for play took: 0.000719
+[2020.06.13-12.21.54:686][193]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2020.06.13-12.21.54:692][193]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap -0,154
+[2020.06.13-12.21.54:693][193]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.21.56:059][341]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.21.56:067][341]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.21.56:067][341]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.21.56:067][341]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.21.56:081][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.21.56:081][341]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.21.56:136][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.06.13-12.21.56:198][342]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.06.13-12.22.02:874][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/1080': Can't find file.
+[2020.06.13-12.22.02:875][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/1080': Can't find file.
+[2020.06.13-12.22.02:875][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/1080_Hovered': Can't find file.
+[2020.06.13-12.22.02:875][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/1080_Hovered': Can't find file.
+[2020.06.13-12.22.02:875][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/720': Can't find file.
+[2020.06.13-12.22.02:876][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/720': Can't find file.
+[2020.06.13-12.22.02:876][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/720_Hovered': Can't find file.
+[2020.06.13-12.22.02:876][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/720_Hovered': Can't find file.
+[2020.06.13-12.22.02:876][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/800': Can't find file.
+[2020.06.13-12.22.02:876][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/800': Can't find file.
+[2020.06.13-12.22.02:877][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/800_Hovered': Can't find file.
+[2020.06.13-12.22.02:877][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/800_Hovered': Can't find file.
+[2020.06.13-12.22.02:883][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/Retour': Can't find file.
+[2020.06.13-12.22.02:883][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/Retour': Can't find file.
+[2020.06.13-12.22.02:883][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/Retour_Hovered': Can't find file.
+[2020.06.13-12.22.02:884][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/Retour_Hovered': Can't find file.
+[2020.06.13-12.22.02:884][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/1080': Can't find file.
+[2020.06.13-12.22.02:884][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/1080': Can't find file.
+[2020.06.13-12.22.02:884][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/1080_Hovered': Can't find file.
+[2020.06.13-12.22.02:885][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/1080_Hovered': Can't find file.
+[2020.06.13-12.22.02:885][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/720': Can't find file.
+[2020.06.13-12.22.02:885][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/720': Can't find file.
+[2020.06.13-12.22.02:885][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/720_Hovered': Can't find file.
+[2020.06.13-12.22.02:885][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/720_Hovered': Can't find file.
+[2020.06.13-12.22.02:886][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/800': Can't find file.
+[2020.06.13-12.22.02:886][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/800': Can't find file.
+[2020.06.13-12.22.02:886][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/800_Hovered': Can't find file.
+[2020.06.13-12.22.02:886][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/800_Hovered': Can't find file.
+[2020.06.13-12.22.02:888][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/Retour': Can't find file.
+[2020.06.13-12.22.02:888][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/Retour': Can't find file.
+[2020.06.13-12.22.02:888][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/Retour_Hovered': Can't find file.
+[2020.06.13-12.22.02:889][112]LogLinker: Warning: While loading 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/HUD/HUD_menuStart.uasset' failed to load '/Game/HUD/Resources/Retour_Hovered': Can't find file.
+[2020.06.13-12.22.02:895][112]LogAIModule: Creating AISystem for world MenuMap
+[2020.06.13-12.22.02:899][112]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MenuMap.MenuMap
+[2020.06.13-12.22.02:941][112]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.06.13-12.22.04:197][112]LogSlate: Window 'Save Content' being destroyed
+[2020.06.13-12.22.04:254][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.06.13-12.22.04:259][112]LogBlueprint: Warning: [Compiler PersistentLevel.PrincipalMap] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2020.06.13-12.22.04:260][112]LogBlueprint: Error: [Compiler PersistentLevel.PrincipalMap] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2020.06.13-12.22.04:542][112]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/PrincipalMap75303D7F4497B62E080027A341F799D7.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/PrincipalMap.umap'
+[2020.06.13-12.22.04:582][112]LogFileHelpers: Saving map 'PrincipalMap' took 0.373
+[2020.06.13-12.22.04:582][112]Cmd: MAP LOAD FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/MenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.13-12.22.04:582][112]LightingResults: New page: Lighting Build
+[2020.06.13-12.22.04:583][112]LoadErrors: New page: Loading map: MenuMap.umap
+[2020.06.13-12.22.04:606][112]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.22.04:660][112]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.22.04:661][112]MapCheck: New page: Map Check
+[2020.06.13-12.22.04:661][112]LightingResults: New page: Lighting Build
+[2020.06.13-12.22.04:704][112]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.06.13-12.22.04:705][112]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.13-12.22.04:744][112]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.06.13-12.22.04:799][112]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.13-12.22.04:800][112]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,175ms to complete.
+[2020.06.13-12.22.04:800][112]LogFileHelpers: Loading map 'MenuMap' took 0.218
+[2020.06.13-12.22.04:872][112]LogBlueprint: Warning: [Compiler PersistentLevel.PrincipalMap] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2020.06.13-12.22.04:872][112]LogBlueprint: Error: [Compiler PersistentLevel.PrincipalMap] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2020.06.13-12.22.04:880][112]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.22.06:833][338]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.22.06:862][338]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.22.06:862][338]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.06.13-12.22.06:863][338]LogPlayLevel: [PlayLevel] Compiling PrincipalMap before play...
+[2020.06.13-12.22.06:864][338]LogBlueprint: Warning: [Compiler PersistentLevel.PrincipalMap] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2020.06.13-12.22.06:864][338]LogBlueprint: Error: [Compiler PersistentLevel.PrincipalMap] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2020.06.13-12.22.07:128][338]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.06.13-12.22.07:128][338]LogPlayLevel: PlayLevel: Blueprint regeneration took 265 ms (1 blueprints)
+[2020.06.13-12.22.07:128][338]BlueprintLog: Warning: Blueprint failed to compile:  PrincipalMap
+[2020.06.13-12.22.07:151][338]LogCustomDialog: Dialog displayed:
+[2020.06.13-12.22.16:479][338]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap
+[2020.06.13-12.22.23:391][338]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2020.06.13-12.22.25:035][529]LogSlate: Window 'Message Log' being destroyed
+[2020.06.13-12.22.25:053][529]LogSlate: Window 'Message Log' being destroyed
+[2020.06.13-12.22.27:090][766]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/PrincipalMap.PrincipalMap
+[2020.06.13-12.22.27:132][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.06.13-12.22.28:361][766]LogSlate: Window 'Save Content' being destroyed
+[2020.06.13-12.22.28:423][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.06.13-12.22.28:433][766]LogBlueprint: Warning: [Compiler PersistentLevel.PrincipalMap] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2020.06.13-12.22.28:433][766]LogBlueprint: Error: [Compiler PersistentLevel.PrincipalMap] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2020.06.13-12.22.28:691][766]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/PrincipalMapCADB89C449D7BE209A773A814E8404DE.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/PrincipalMap.umap'
+[2020.06.13-12.22.28:697][766]LogFileHelpers: Saving map 'PrincipalMap' took 0.322
+[2020.06.13-12.22.28:716][766]Cmd: MAP LOAD FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/PrincipalMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.13-12.22.28:717][766]LightingResults: New page: Lighting Build
+[2020.06.13-12.22.28:717][766]LoadErrors: New page: Loading map: PrincipalMap.umap
+[2020.06.13-12.22.28:717][766]LogWorld: UWorld::CleanupWorld for MenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.22.28:718][766]MapCheck: New page: Map Check
+[2020.06.13-12.22.28:718][766]LightingResults: New page: Lighting Build
+[2020.06.13-12.22.28:760][766]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.06.13-12.22.28:763][766]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.13-12.22.28:807][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.06.13-12.22.28:843][766]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.13-12.22.28:844][766]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,181ms to complete.
+[2020.06.13-12.22.28:845][766]LogFileHelpers: Loading map 'PrincipalMap' took 0.130
+[2020.06.13-12.22.43:684][457]LogAIModule: Creating AISystem for world MenuMap
+[2020.06.13-12.22.43:688][457]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MenuMap.MenuMap
+[2020.06.13-12.22.43:732][457]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.06.13-12.22.43:734][457]Cmd: MAP LOAD FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/MenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.13-12.22.43:734][457]LightingResults: New page: Lighting Build
+[2020.06.13-12.22.43:735][457]LoadErrors: New page: Loading map: MenuMap.umap
+[2020.06.13-12.22.43:755][457]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.22.43:814][457]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.22.43:815][457]MapCheck: New page: Map Check
+[2020.06.13-12.22.43:815][457]LightingResults: New page: Lighting Build
+[2020.06.13-12.22.43:858][457]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.06.13-12.22.43:860][457]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.13-12.22.43:901][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.06.13-12.22.43:939][457]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.13-12.22.43:939][457]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,169ms to complete.
+[2020.06.13-12.22.43:939][457]LogFileHelpers: Loading map 'MenuMap' took 0.206
+[2020.06.13-12.22.45:173][592]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.22.45:200][592]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.22.45:200][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.22.45:200][592]PIE: New page: PIE session: MenuMap (13 juin 2020 16:22:45)
+[2020.06.13-12.22.45:200][592]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.22.45:201][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001156s)
+[2020.06.13-12.22.45:202][592]LogAIModule: Creating AISystem for world MenuMap
+[2020.06.13-12.22.45:202][592]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2020.06.13-12.22.45:202][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuMap.MenuMap to /Game/Maps/UEDPIE_0_MenuMap.MenuMap (0.002413s)
+[2020.06.13-12.22.45:242][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.06.13-12.22.45:305][592]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.22.45:320][592]LogInit: FAudioDevice initialized.
+[2020.06.13-12.22.45:329][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.22.45:330][592]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.22.45:331][592]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 0) at 2020.06.13-14.22.45
+[2020.06.13-12.22.45:331][592]LogWorld: Bringing up level for play took: 0.000490
+[2020.06.13-12.22.45:331][592]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2020.06.13-12.22.45:339][592]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MenuMap 0,491
+[2020.06.13-12.22.45:339][592]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.22.47:198][802]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.22.47:208][802]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.22.47:208][802]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.22.47:208][802]LogWorld: UWorld::CleanupWorld for MenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.22.47:218][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.22.47:218][802]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.22.47:270][802]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.06.13-12.22.47:315][803]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.06.13-12.22.49:192][ 23]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.22.49:193][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.22.49:193][ 23]PIE: New page: PIE session: MenuMap (13 juin 2020 16:22:49)
+[2020.06.13-12.22.49:193][ 23]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.22.49:194][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001163s)
+[2020.06.13-12.22.49:195][ 23]LogAIModule: Creating AISystem for world MenuMap
+[2020.06.13-12.22.49:195][ 23]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2020.06.13-12.22.49:195][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuMap.MenuMap to /Game/Maps/UEDPIE_0_MenuMap.MenuMap (0.002455s)
+[2020.06.13-12.22.49:235][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.06.13-12.22.49:299][ 23]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.22.49:314][ 23]LogInit: FAudioDevice initialized.
+[2020.06.13-12.22.49:327][ 23]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.22.49:329][ 23]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 0) at 2020.06.13-14.22.49
+[2020.06.13-12.22.49:329][ 23]LogWorld: Bringing up level for play took: 0.000532
+[2020.06.13-12.22.49:329][ 23]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2020.06.13-12.22.49:334][ 23]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MenuMap 0,487
+[2020.06.13-12.22.49:334][ 23]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.22.51:029][223]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.22.51:030][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.22.51:030][223]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.22.51:030][223]LogWorld: UWorld::CleanupWorld for MenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.22.51:039][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.22.51:039][223]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.22.51:082][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.22.51:087][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.06.13-12.22.51:136][228]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.06.13-12.22.51:922][322]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.13-12.22.51:944][322]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.22.51:944][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.22.51:945][322]PIE: New page: PIE session: MenuMap (13 juin 2020 16:22:51)
+[2020.06.13-12.22.51:945][322]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.22.51:946][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001253s)
+[2020.06.13-12.22.51:947][322]LogAIModule: Creating AISystem for world MenuMap
+[2020.06.13-12.22.51:947][322]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2020.06.13-12.22.51:947][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuMap.MenuMap to /Game/Maps/UEDPIE_0_MenuMap.MenuMap (0.002473s)
+[2020.06.13-12.22.51:986][322]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.06.13-12.22.52:052][322]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.22.52:067][322]LogInit: FAudioDevice initialized.
+[2020.06.13-12.22.52:079][322]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.22.52:080][322]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 0) at 2020.06.13-14.22.52
+[2020.06.13-12.22.52:080][322]LogWorld: Bringing up level for play took: 0.000403
+[2020.06.13-12.22.52:081][322]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2020.06.13-12.22.52:085][322]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MenuMap -0,762
+[2020.06.13-12.22.52:086][322]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.22.54:706][631]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.22.54:707][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.22.54:707][631]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.22.54:707][631]LogWorld: UWorld::CleanupWorld for MenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.22.54:714][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.22.54:714][631]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.22.54:758][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.22.54:762][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.06.13-12.22.54:809][636]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.06.13-12.22.56:445][832]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.13-12.22.56:467][832]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.22.56:467][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.22.56:467][832]PIE: New page: PIE session: MenuMap (13 juin 2020 16:22:56)
+[2020.06.13-12.22.56:468][832]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.22.56:469][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001338s)
+[2020.06.13-12.22.56:470][832]LogAIModule: Creating AISystem for world MenuMap
+[2020.06.13-12.22.56:471][832]LogPlayLevel: PIE: World Init took: (0.001622s)
+[2020.06.13-12.22.56:471][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuMap.MenuMap to /Game/Maps/UEDPIE_0_MenuMap.MenuMap (0.003140s)
+[2020.06.13-12.22.56:511][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.06.13-12.22.56:576][832]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.22.56:592][832]LogInit: FAudioDevice initialized.
+[2020.06.13-12.22.56:601][832]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.22.56:602][832]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 0) at 2020.06.13-14.22.56
+[2020.06.13-12.22.56:602][832]LogWorld: Bringing up level for play took: 0.000344
+[2020.06.13-12.22.56:603][832]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2020.06.13-12.22.56:607][832]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MenuMap -0,24
+[2020.06.13-12.22.56:607][832]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.23.02:519][540]Cmd: r.SetRes 800x600
+[2020.06.13-12.23.02:519][540]r.SetRes = "800x600"
+[2020.06.13-12.23.03:177][619]Cmd: r.SetRes 800x600
+[2020.06.13-12.23.03:177][619]r.SetRes = "800x600"
+[2020.06.13-12.23.03:694][681]Cmd: r.SetRes 1080x720
+[2020.06.13-12.23.03:694][681]r.SetRes = "1080x720"
+[2020.06.13-12.23.04:235][746]Cmd: r.SetRes 1920x1080
+[2020.06.13-12.23.04:236][746]r.SetRes = "1920x1080"
+[2020.06.13-12.23.05:670][918]Cmd: r.SetRes 1920x1080
+[2020.06.13-12.23.05:670][918]r.SetRes = "1920x1080"
+[2020.06.13-12.23.05:845][939]Cmd: r.SetRes 1920x1080
+[2020.06.13-12.23.05:845][939]r.SetRes = "1920x1080"
+[2020.06.13-12.23.06:019][960]Cmd: r.SetRes 1920x1080
+[2020.06.13-12.23.06:019][960]r.SetRes = "1920x1080"
+[2020.06.13-12.23.06:169][978]Cmd: r.SetRes 1920x1080
+[2020.06.13-12.23.06:170][978]r.SetRes = "1920x1080"
+[2020.06.13-12.23.10:870][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.23.10:870][542]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.23.10:870][542]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.23.10:870][542]LogWorld: UWorld::CleanupWorld for MenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.23.10:877][542]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.23.10:877][542]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.23.10:921][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.23.10:925][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.06.13-12.23.10:975][546]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.06.13-12.23.13:556][847]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.23.13:556][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.23.13:557][847]PIE: New page: PIE session: MenuMap (13 juin 2020 16:23:13)
+[2020.06.13-12.23.13:557][847]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.23.13:558][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001449s)
+[2020.06.13-12.23.13:559][847]LogAIModule: Creating AISystem for world MenuMap
+[2020.06.13-12.23.13:560][847]LogPlayLevel: PIE: World Init took: (0.001392s)
+[2020.06.13-12.23.13:560][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuMap.MenuMap to /Game/Maps/UEDPIE_0_MenuMap.MenuMap (0.003004s)
+[2020.06.13-12.23.13:598][847]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.06.13-12.23.13:662][847]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.23.13:677][847]LogInit: FAudioDevice initialized.
+[2020.06.13-12.23.13:687][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.23.13:687][847]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.23.13:688][847]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 0) at 2020.06.13-14.23.13
+[2020.06.13-12.23.13:689][847]LogWorld: Bringing up level for play took: 0.000606
+[2020.06.13-12.23.13:689][847]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2020.06.13-12.23.13:696][847]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MenuMap 0,849
+[2020.06.13-12.23.13:697][847]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.23.15:715][ 72]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.23.15:728][ 72]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.23.15:728][ 72]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.23.15:728][ 72]LogWorld: UWorld::CleanupWorld for MenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.23.15:739][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.23.15:740][ 72]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.23.15:791][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.06.13-12.23.15:828][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2020.06.13-12.23.24:241][ 44]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.23.24:265][ 44]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.23.24:265][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.23.24:265][ 44]PIE: New page: PIE session: MenuMap (13 juin 2020 16:23:24)
+[2020.06.13-12.23.24:265][ 44]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.23.24:267][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001317s)
+[2020.06.13-12.23.24:267][ 44]LogAIModule: Creating AISystem for world MenuMap
+[2020.06.13-12.23.24:268][ 44]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2020.06.13-12.23.24:268][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuMap.MenuMap to /Game/Maps/UEDPIE_0_MenuMap.MenuMap (0.002602s)
+[2020.06.13-12.23.24:307][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.06.13-12.23.24:372][ 44]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.23.24:387][ 44]LogInit: FAudioDevice initialized.
+[2020.06.13-12.23.24:396][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.23.24:397][ 44]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.23.24:398][ 44]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 0) at 2020.06.13-14.23.24
+[2020.06.13-12.23.24:398][ 44]LogWorld: Bringing up level for play took: 0.000508
+[2020.06.13-12.23.24:398][ 44]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2020.06.13-12.23.24:406][ 44]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MenuMap -0,441
+[2020.06.13-12.23.24:406][ 44]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.23.25:958][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.23.26:026][227]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.23.26:026][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.23.26:026][227]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.23.26:045][227]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.23.26:058][227]LogWorld: UWorld::CleanupWorld for MenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.23.26:065][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.23.26:065][227]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.23.26:115][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.06.13-12.23.26:129][228]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.06.13-12.23.26:615][285]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.23.26:637][285]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.23.26:637][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.23.26:638][285]PIE: New page: PIE session: MenuMap (13 juin 2020 16:23:26)
+[2020.06.13-12.23.26:638][285]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.23.26:639][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001160s)
+[2020.06.13-12.23.26:640][285]LogAIModule: Creating AISystem for world MenuMap
+[2020.06.13-12.23.26:640][285]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2020.06.13-12.23.26:640][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuMap.MenuMap to /Game/Maps/UEDPIE_0_MenuMap.MenuMap (0.002459s)
+[2020.06.13-12.23.26:672][285]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.06.13-12.23.26:734][285]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.23.26:750][285]LogInit: FAudioDevice initialized.
+[2020.06.13-12.23.26:758][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.23.26:759][285]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.23.26:760][285]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 0) at 2020.06.13-14.23.26
+[2020.06.13-12.23.26:760][285]LogWorld: Bringing up level for play took: 0.000491
+[2020.06.13-12.23.26:760][285]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2020.06.13-12.23.26:768][285]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MenuMap -0,079
+[2020.06.13-12.23.26:768][285]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.23.29:094][554]LogNet: Browse: /Game/Maps/PrincipalMap
+[2020.06.13-12.23.29:094][554]LogLoad: LoadMap: /Game/Maps/PrincipalMap
+[2020.06.13-12.23.29:094][554]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.23.29:095][554]LogWorld: UWorld::CleanupWorld for MenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.23.29:139][554]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.06.13-12.23.29:148][554]LogBlueprint: Warning: [Compiler PersistentLevel.PrincipalMap] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2020.06.13-12.23.29:148][554]LogBlueprint: Error: [Compiler PersistentLevel.PrincipalMap] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2020.06.13-12.23.29:156][554]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.23.29:156][554]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.23.29:158][554]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.23.29
+[2020.06.13-12.23.29:159][554]LogWorld: Bringing up level for play took: 0.001522
+[2020.06.13-12.23.29:161][554]LogLoad: Took 0.066691 seconds to LoadMap(/Game/Maps/PrincipalMap)
+[2020.06.13-12.23.40:795][935]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.23.40:795][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.23.40:795][935]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.23.40:815][935]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.23.40:824][935]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.23.40:832][935]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.23.40:833][935]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.23.40:884][935]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.06.13-12.23.40:899][936]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2020.06.13-12.23.52:671][306]LogBlueprint: Warning: [Compiler PersistentLevel.PrincipalMap] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2020.06.13-12.23.52:672][306]LogBlueprint: Error: [Compiler PersistentLevel.PrincipalMap] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2020.06.13-12.23.52:678][306]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.23.52:683][306]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/PrincipalMap.PrincipalMap
+[2020.06.13-12.23.52:724][306]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.06.13-12.23.52:725][306]Cmd: MAP LOAD FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/PrincipalMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.13-12.23.52:726][306]LightingResults: New page: Lighting Build
+[2020.06.13-12.23.52:726][306]LoadErrors: New page: Loading map: PrincipalMap.umap
+[2020.06.13-12.23.52:726][306]LogWorld: UWorld::CleanupWorld for MenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.23.52:727][306]MapCheck: New page: Map Check
+[2020.06.13-12.23.52:727][306]LightingResults: New page: Lighting Build
+[2020.06.13-12.23.52:766][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.06.13-12.23.52:769][306]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.13-12.23.52:812][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.06.13-12.23.52:847][306]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.13-12.23.52:847][306]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,175ms to complete.
+[2020.06.13-12.23.52:847][306]LogFileHelpers: Loading map 'PrincipalMap' took 0.123
+[2020.06.13-12.24.02:540][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.24.52:411][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.24.56:794][539]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.24.56:818][539]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.24.56:818][539]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.06.13-12.24.56:819][539]LogPlayLevel: [PlayLevel] Compiling PrincipalMap before play...
+[2020.06.13-12.24.56:820][539]LogBlueprint: Warning: [Compiler PersistentLevel.PrincipalMap] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2020.06.13-12.24.56:821][539]LogBlueprint: Error: [Compiler PersistentLevel.PrincipalMap] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2020.06.13-12.24.57:086][539]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.06.13-12.24.57:087][539]LogPlayLevel: PlayLevel: Blueprint regeneration took 268 ms (1 blueprints)
+[2020.06.13-12.24.57:087][539]BlueprintLog: Warning: Blueprint failed to compile:  PrincipalMap
+[2020.06.13-12.24.57:087][539]LogCustomDialog: Dialog displayed:
+[2020.06.13-12.25.05:505][539]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2020.06.13-12.25.07:857][788]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap
+[2020.06.13-12.25.08:233][788]LogBlueprint: Warning: Unknown type of hyperlinked object (PrincipalMap), cannot focus it
+[2020.06.13-12.25.08:233][788]LogBlueprint: Warning: Unknown type of hyperlinked object (PrincipalMap), cannot focus it
+[2020.06.13-12.25.09:507][938]LogSlate: Window 'Message Log' being destroyed
+[2020.06.13-12.25.09:521][938]LogSlate: Window 'Message Log' being destroyed
+[2020.06.13-12.25.12:226][257]BlueprintLog: New page: Compile PrincipalMap
+[2020.06.13-12.25.12:490][257]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.06.13-12.25.12:879][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.06.13-12.25.13:146][294]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/PrincipalMap37AAE812482F023B5DFDBC9CE0971C03.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/PrincipalMap.umap'
+[2020.06.13-12.25.13:188][294]LogFileHelpers: Saving map 'PrincipalMap' took 0.354
+[2020.06.13-12.25.55:350][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.26.44:206][612]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\PC livio\Desktop\3D Models\vase.fbx)
+[2020.06.13-12.26.44:227][612]LogFbx: Loading FBX Scene from C:\Users\PC livio\Desktop\3D Models\vase.fbx
+[2020.06.13-12.26.44:289][612]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.13-12.26.46:325][612]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.13-12.26.46:460][612]LogFbx: Display: Triangulating static mesh Cylinder
+[2020.06.13-12.26.48:184][612]LogStaticMesh: Building static mesh vase...
+[2020.06.13-12.26.48:635][612]LogStaticMesh: Built static mesh [0.45s] /Game/Props/vase.vase
+[2020.06.13-12.26.48:959][612]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.13-12.26.49:114][612]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\PC livio\Desktop\3D Models\table.fbx)
+[2020.06.13-12.26.49:130][612]LogFbx: Loading FBX Scene from C:\Users\PC livio\Desktop\3D Models\table.fbx
+[2020.06.13-12.26.49:149][612]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.13-12.26.49:326][612]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.06.13-12.26.49:395][612]LogFbx: Display: Triangulating static mesh Cube
+[2020.06.13-12.26.50:032][612]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.06.13-12.26.50:032][612]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.06.13-12.26.50:032][612]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.06.13-12.26.50:035][612]LogStaticMesh: Building static mesh table_Cube...
+[2020.06.13-12.26.50:178][612]LogStaticMesh: Built static mesh [0.14s] /Game/Props/table_Cube.table_Cube
+[2020.06.13-12.26.50:248][612]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2020.06.13-12.26.50:267][612]LogStaticMesh: Building static mesh table_Cylinder_001...
+[2020.06.13-12.26.50:277][612]LogStaticMesh: Built static mesh [0.01s] /Game/Props/table_Cylinder_001.table_Cylinder_001
+[2020.06.13-12.26.50:297][612]LogFbx: Display: Triangulating static mesh Torus.002
+[2020.06.13-12.26.50:548][612]LogStaticMesh: Building static mesh table_Torus_002...
+[2020.06.13-12.26.50:605][612]LogStaticMesh: Built static mesh [0.06s] /Game/Props/table_Torus_002.table_Torus_002
+[2020.06.13-12.26.50:644][612]LogFbx: Display: Triangulating static mesh Sphere.002
+[2020.06.13-12.26.50:836][612]LogStaticMesh: Building static mesh table_Sphere_002...
+[2020.06.13-12.26.50:885][612]LogStaticMesh: Built static mesh [0.05s] /Game/Props/table_Sphere_002.table_Sphere_002
+[2020.06.13-12.26.50:950][612]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.13-12.26.53:915][857]LogSlate: Window 'Message Log' being destroyed
+[2020.06.13-12.26.53:926][857]LogSlate: Window 'Message Log' being destroyed
+[2020.06.13-12.26.56:718][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2020.06.13-12.26.59:360][ 19]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.13-12.26.59:588][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.06.13-12.27.01:074][154]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\PC livio\Desktop\3D Models\table.fbx)
+[2020.06.13-12.27.01:092][154]LogFbx: Loading FBX Scene from C:\Users\PC livio\Desktop\3D Models\table.fbx
+[2020.06.13-12.27.01:110][154]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.13-12.27.04:737][154]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.13-12.27.04:819][154]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.06.13-12.27.04:837][154]LogFbx: Display: Triangulating static mesh Cube
+[2020.06.13-12.27.05:474][154]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.06.13-12.27.05:474][154]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.06.13-12.27.05:474][154]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.06.13-12.27.05:474][154]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2020.06.13-12.27.05:491][154]LogFbx: Display: Triangulating static mesh Torus.002
+[2020.06.13-12.27.05:722][154]LogFbx: Display: Triangulating static mesh Sphere.002
+[2020.06.13-12.27.05:960][154]LogStaticMesh: Building static mesh table...
+[2020.06.13-12.27.06:254][154]LogStaticMesh: Built static mesh [0.29s] /Game/Props/table.table
+[2020.06.13-12.27.06:409][154]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.13-12.27.06:516][154]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\PC livio\Desktop\3D Models\vase.fbx)
+[2020.06.13-12.27.06:535][154]LogFbx: Loading FBX Scene from C:\Users\PC livio\Desktop\3D Models\vase.fbx
+[2020.06.13-12.27.06:566][154]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.13-12.27.06:569][154]LogFbx: Display: Triangulating static mesh Cylinder
+[2020.06.13-12.27.08:402][154]LogStaticMesh: Building static mesh vase...
+[2020.06.13-12.27.08:839][154]LogStaticMesh: Built static mesh [0.44s] /Game/Props/vase.vase
+[2020.06.13-12.27.09:083][154]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.13-12.27.10:777][284]LogSlate: Window 'Message Log' being destroyed
+[2020.06.13-12.27.10:794][284]LogSlate: Window 'Message Log' being destroyed
+[2020.06.13-12.27.14:629][596]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.06.13-12.27.17:403][596]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.13-12.27.27:768][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/PropsMaterials/Material" FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Props/PropsMaterials/Material.uasset" SILENT=true
+[2020.06.13-12.27.27:787][711]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/Material0660C7934F7A23377CF193BA0BC86C85.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Props/PropsMaterials/Material.uasset'
+[2020.06.13-12.27.28:047][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.06.13-12.27.28:103][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.06.13-12.27.28:147][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.06.13-12.27.29:058][769]LogActorFactory: Actor Factory created table
+[2020.06.13-12.27.30:541][942]LogActorFactory: Actor Factory created table
+[2020.06.13-12.27.31:605][ 46]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.06.13-12.27.33:393][242]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.06.13-12.27.35:780][509]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.06.13-12.27.36:179][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (table)
+[2020.06.13-12.27.49:702][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.27.49:770][898]Cmd: MODE GRID=0
+[2020.06.13-12.27.56:593][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.27.56:669][622]Cmd: MODE GRID=1
+[2020.06.13-12.28.03:348][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.28.03:467][289]LogActorFactory: Actor Factory created vase
+[2020.06.13-12.28.04:678][398]LogActorFactory: Actor Factory created vase
+[2020.06.13-12.28.07:727][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.28.07:812][717]Cmd: MODE GRID=0
+[2020.06.13-12.28.13:069][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.28.13:136][253]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.28.13:163][253]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.13:164][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.28.13:164][253]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:28:13)
+[2020.06.13-12.28.13:164][253]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.28.13:167][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003484s)
+[2020.06.13-12.28.13:169][253]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.28.13:169][253]LogPlayLevel: PIE: World Init took: (0.001438s)
+[2020.06.13-12.28.13:169][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.005146s)
+[2020.06.13-12.28.13:213][253]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.06.13-12.28.13:279][253]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.28.13:296][253]LogInit: FAudioDevice initialized.
+[2020.06.13-12.28.13:307][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.28.13:307][253]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.28.13:308][253]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.28.13
+[2020.06.13-12.28.13:309][253]LogWorld: Bringing up level for play took: 0.000765
+[2020.06.13-12.28.13:309][253]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2020.06.13-12.28.13:315][253]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap 0,468
+[2020.06.13-12.28.13:316][253]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.15:710][515]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.28.15:720][515]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.15:720][515]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.28.15:721][515]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.28.15:731][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.28.15:731][515]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.15:792][515]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.06.13-12.28.15:856][516]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2020.06.13-12.28.17:037][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (vase)
+[2020.06.13-12.28.18:741][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.28.20:406][916]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.28.20:432][916]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.20:432][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.28.20:432][916]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:28:20)
+[2020.06.13-12.28.20:432][916]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.28.20:436][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003696s)
+[2020.06.13-12.28.20:437][916]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.28.20:437][916]LogPlayLevel: PIE: World Init took: (0.001334s)
+[2020.06.13-12.28.20:437][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.005229s)
+[2020.06.13-12.28.20:484][916]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.06.13-12.28.20:548][916]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.28.20:564][916]LogInit: FAudioDevice initialized.
+[2020.06.13-12.28.20:574][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.28.20:574][916]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.28.20:575][916]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.28.20
+[2020.06.13-12.28.20:576][916]LogWorld: Bringing up level for play took: 0.000968
+[2020.06.13-12.28.20:576][916]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2020.06.13-12.28.20:584][916]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap -0,263
+[2020.06.13-12.28.20:584][916]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.22:220][ 87]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.22:221][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.28.22:221][ 87]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.28.22:240][ 87]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.28.22:248][ 87]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.28.22:258][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.28.22:258][ 87]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.22:319][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.06.13-12.28.22:337][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2020.06.13-12.28.22:915][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (vase)
+[2020.06.13-12.28.27:177][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.28.27:241][588]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.28.27:267][588]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.27:267][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.28.27:267][588]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:28:27)
+[2020.06.13-12.28.27:268][588]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.28.27:271][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002974s)
+[2020.06.13-12.28.27:272][588]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.28.27:272][588]LogPlayLevel: PIE: World Init took: (0.001346s)
+[2020.06.13-12.28.27:272][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.004551s)
+[2020.06.13-12.28.27:316][588]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.06.13-12.28.27:380][588]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.28.27:397][588]LogInit: FAudioDevice initialized.
+[2020.06.13-12.28.27:407][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.28.27:407][588]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.28.27:408][588]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.28.27
+[2020.06.13-12.28.27:408][588]LogWorld: Bringing up level for play took: 0.000836
+[2020.06.13-12.28.27:409][588]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2020.06.13-12.28.27:416][588]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap 0,568
+[2020.06.13-12.28.27:416][588]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.29:483][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.29:483][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.28.29:483][818]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.28.29:502][818]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.28.29:512][818]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.28.29:519][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.28.29:520][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.29:578][818]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.06.13-12.28.29:597][819]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2020.06.13-12.28.30:736][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (vase)
+[2020.06.13-12.28.32:189][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.28.32:291][102]Cmd: MODE ROTGRID=0
+[2020.06.13-12.28.36:071][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.28.36:147][485]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.28.36:174][485]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.36:175][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.28.36:175][485]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:28:36)
+[2020.06.13-12.28.36:175][485]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.28.36:178][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003069s)
+[2020.06.13-12.28.36:179][485]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.28.36:180][485]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2020.06.13-12.28.36:180][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.004746s)
+[2020.06.13-12.28.36:223][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.06.13-12.28.36:288][485]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.28.36:304][485]LogInit: FAudioDevice initialized.
+[2020.06.13-12.28.36:314][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.28.36:314][485]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.28.36:316][485]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.28.36
+[2020.06.13-12.28.36:316][485]LogWorld: Bringing up level for play took: 0.001094
+[2020.06.13-12.28.36:316][485]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2020.06.13-12.28.36:323][485]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap -0,525
+[2020.06.13-12.28.36:323][485]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.42:843][238]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.42:843][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.28.42:843][238]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.28.42:862][238]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.28.42:873][238]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.28.42:885][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.28.42:886][238]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.42:944][238]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.06.13-12.28.42:963][239]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2020.06.13-12.28.43:961][351]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.28.43:986][351]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.43:986][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.28.43:986][351]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:28:43)
+[2020.06.13-12.28.43:986][351]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.28.43:989][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003065s)
+[2020.06.13-12.28.43:990][351]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.28.43:991][351]LogPlayLevel: PIE: World Init took: (0.001347s)
+[2020.06.13-12.28.43:991][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.004589s)
+[2020.06.13-12.28.44:038][351]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.06.13-12.28.44:103][351]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.28.44:118][351]LogInit: FAudioDevice initialized.
+[2020.06.13-12.28.44:127][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.28.44:128][351]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.28.44:129][351]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.28.44
+[2020.06.13-12.28.44:129][351]LogWorld: Bringing up level for play took: 0.000840
+[2020.06.13-12.28.44:129][351]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2020.06.13-12.28.44:137][351]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap -0,71
+[2020.06.13-12.28.44:137][351]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.49:502][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.49:502][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.28.49:503][970]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.28.49:523][970]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.28.49:533][970]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.28.49:546][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.28.49:547][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.49:606][970]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.06.13-12.28.49:624][971]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2020.06.13-12.28.50:309][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (vase)
+[2020.06.13-12.28.53:796][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.28.55:051][523]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.28.55:078][523]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.55:078][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.28.55:078][523]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:28:55)
+[2020.06.13-12.28.55:079][523]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.28.55:082][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002914s)
+[2020.06.13-12.28.55:083][523]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.28.55:083][523]LogPlayLevel: PIE: World Init took: (0.001489s)
+[2020.06.13-12.28.55:083][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.004568s)
+[2020.06.13-12.28.55:128][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.06.13-12.28.55:195][523]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.28.55:211][523]LogInit: FAudioDevice initialized.
+[2020.06.13-12.28.55:221][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.28.55:221][523]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.28.55:223][523]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.28.55
+[2020.06.13-12.28.55:223][523]LogWorld: Bringing up level for play took: 0.000802
+[2020.06.13-12.28.55:223][523]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2020.06.13-12.28.55:230][523]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap 0,383
+[2020.06.13-12.28.55:231][523]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.59:311][992]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.59:311][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.28.59:311][992]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.28.59:332][992]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.28.59:345][992]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.28.59:353][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.28.59:353][992]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.28.59:414][992]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.06.13-12.28.59:434][993]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2020.06.13-12.29.00:136][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (vase)
+[2020.06.13-12.29.03:966][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.29.04:037][463]Cmd: MODE GRID=1
+[2020.06.13-12.29.04:628][518]Cmd: MODE ROTGRID=1
+[2020.06.13-12.29.09:791][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.29.09:859][ 56]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.29.09:885][ 56]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.29.09:885][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.29.09:885][ 56]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:29:09)
+[2020.06.13-12.29.09:885][ 56]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.29.09:889][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003255s)
+[2020.06.13-12.29.09:890][ 56]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.29.09:890][ 56]LogPlayLevel: PIE: World Init took: (0.001537s)
+[2020.06.13-12.29.09:890][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.004957s)
+[2020.06.13-12.29.09:937][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.06.13-12.29.10:002][ 56]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.29.10:017][ 56]LogInit: FAudioDevice initialized.
+[2020.06.13-12.29.10:027][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.29.10:028][ 56]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.29.10:030][ 56]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.29.10
+[2020.06.13-12.29.10:030][ 56]LogWorld: Bringing up level for play took: 0.001525
+[2020.06.13-12.29.10:030][ 56]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2020.06.13-12.29.10:036][ 56]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap -0,811
+[2020.06.13-12.29.10:037][ 56]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.29.19:625][162]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.29.19:625][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.29.19:625][162]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.29.19:644][162]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.29.19:652][162]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.29.19:663][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.29.19:663][162]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.29.19:726][162]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.06.13-12.29.19:745][163]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2020.06.13-12.29.20:435][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (table)
+[2020.06.13-12.29.21:932][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.29.22:349][387]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Props/table.table
+[2020.06.13-12.29.23:954][387]LogRenderer: Reallocating scene render targets to support 1912x1280 Format 10 NumSamples 1 (Frame:1).
+[2020.06.13-12.29.45:897][686]LogSlate: Window 'table' being destroyed
+[2020.06.13-12.29.56:227][536]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.29.58:460][784]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.30.01:736][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.30.01:813][ 78]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.30.01:843][ 78]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.01:843][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.30.01:843][ 78]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:30:01)
+[2020.06.13-12.30.01:843][ 78]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.30.01:846][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003125s)
+[2020.06.13-12.30.01:851][ 78]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.30.01:852][ 78]LogPlayLevel: PIE: World Init took: (0.005152s)
+[2020.06.13-12.30.01:852][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.008507s)
+[2020.06.13-12.30.01:953][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2020.06.13-12.30.02:020][ 78]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.30.02:036][ 78]LogInit: FAudioDevice initialized.
+[2020.06.13-12.30.02:046][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.30.02:046][ 78]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.30.02:048][ 78]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.30.02
+[2020.06.13-12.30.02:048][ 78]LogWorld: Bringing up level for play took: 0.000883
+[2020.06.13-12.30.02:048][ 78]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2020.06.13-12.30.02:055][ 78]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap 1,208
+[2020.06.13-12.30.02:055][ 78]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.04:951][405]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.04:951][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.30.04:951][405]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.30.04:972][405]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.30.04:979][405]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.30.04:989][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.30.04:990][405]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.05:080][405]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2020.06.13-12.30.05:112][406]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2020.06.13-12.30.05:888][489]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.30.05:912][489]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.05:912][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.30.05:912][489]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:30:05)
+[2020.06.13-12.30.05:912][489]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.30.05:915][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003150s)
+[2020.06.13-12.30.05:917][489]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.30.05:917][489]LogPlayLevel: PIE: World Init took: (0.001918s)
+[2020.06.13-12.30.05:917][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.005370s)
+[2020.06.13-12.30.05:955][489]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.06.13-12.30.06:019][489]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.30.06:034][489]LogInit: FAudioDevice initialized.
+[2020.06.13-12.30.06:044][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.30.06:044][489]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.30.06:046][489]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.30.06
+[2020.06.13-12.30.06:047][489]LogWorld: Bringing up level for play took: 0.001039
+[2020.06.13-12.30.06:047][489]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2020.06.13-12.30.06:053][489]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap -0,794
+[2020.06.13-12.30.06:054][489]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.08:891][812]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.08:891][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.30.08:891][812]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.30.08:910][812]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.30.08:923][812]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.30.08:935][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.30.08:936][812]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.08:995][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.06.13-12.30.09:014][813]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2020.06.13-12.30.14:240][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (vase)
+[2020.06.13-12.30.20:364][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.30.20:451][ 80]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.30.20:479][ 80]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.20:479][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.30.20:479][ 80]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:30:20)
+[2020.06.13-12.30.20:479][ 80]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.30.20:483][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003053s)
+[2020.06.13-12.30.20:484][ 80]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.30.20:484][ 80]LogPlayLevel: PIE: World Init took: (0.001561s)
+[2020.06.13-12.30.20:484][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.004823s)
+[2020.06.13-12.30.20:522][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.06.13-12.30.20:589][ 80]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.30.20:606][ 80]LogInit: FAudioDevice initialized.
+[2020.06.13-12.30.20:616][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.30.20:616][ 80]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.30.20:618][ 80]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.30.20
+[2020.06.13-12.30.20:618][ 80]LogWorld: Bringing up level for play took: 0.000992
+[2020.06.13-12.30.20:618][ 80]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2020.06.13-12.30.20:625][ 80]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap -0,222
+[2020.06.13-12.30.20:625][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.27:343][864]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.27:344][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.30.27:344][864]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.30.27:364][864]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.30.27:375][864]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.30.27:383][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.30.27:383][864]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.27:437][864]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.06.13-12.30.27:456][865]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2020.06.13-12.30.28:186][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (vase)
+[2020.06.13-12.30.30:429][164]Cmd: DELETE
+[2020.06.13-12.30.30:429][164]Cmd: ACTOR DELETE
+[2020.06.13-12.30.30:430][164]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.13-12.30.30:473][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.06.13-12.30.30:473][164]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2020.06.13-12.30.32:357][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.30.32:772][437]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.30.32:798][437]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.32:798][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.30.32:798][437]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:30:32)
+[2020.06.13-12.30.32:798][437]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.30.32:802][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003315s)
+[2020.06.13-12.30.32:803][437]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.30.32:803][437]LogPlayLevel: PIE: World Init took: (0.001162s)
+[2020.06.13-12.30.32:803][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.004666s)
+[2020.06.13-12.30.32:841][437]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.06.13-12.30.32:905][437]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.30.32:921][437]LogInit: FAudioDevice initialized.
+[2020.06.13-12.30.32:930][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.30.32:930][437]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.30.32:932][437]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.30.32
+[2020.06.13-12.30.32:932][437]LogWorld: Bringing up level for play took: 0.000830
+[2020.06.13-12.30.32:932][437]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2020.06.13-12.30.32:939][437]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap 0,092
+[2020.06.13-12.30.32:940][437]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.35:598][732]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.35:598][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.30.35:598][732]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.30.35:617][732]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.30.35:625][732]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.30.35:636][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.30.35:637][732]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.35:693][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.06.13-12.30.35:712][733]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2020.06.13-12.30.36:673][811]LogActorFactory: Actor Factory created vase
+[2020.06.13-12.30.37:942][957]LogActorFactory: Actor Factory created vase
+[2020.06.13-12.30.41:538][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.30.41:610][324]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.30.41:636][324]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.41:636][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.30.41:636][324]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:30:41)
+[2020.06.13-12.30.41:636][324]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.30.41:639][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002987s)
+[2020.06.13-12.30.41:640][324]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.30.41:641][324]LogPlayLevel: PIE: World Init took: (0.001543s)
+[2020.06.13-12.30.41:641][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.004734s)
+[2020.06.13-12.30.41:678][324]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.06.13-12.30.41:743][324]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.30.41:758][324]LogInit: FAudioDevice initialized.
+[2020.06.13-12.30.41:769][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.30.41:769][324]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.30.41:770][324]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.30.41
+[2020.06.13-12.30.41:771][324]LogWorld: Bringing up level for play took: 0.000961
+[2020.06.13-12.30.41:771][324]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2020.06.13-12.30.41:778][324]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap 0,931
+[2020.06.13-12.30.41:778][324]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.43:702][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.43:702][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.30.43:702][536]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.30.43:722][536]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.30.43:738][536]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.30.43:745][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.30.43:746][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.43:805][536]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.06.13-12.30.43:825][537]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2020.06.13-12.30.44:337][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (vase)
+[2020.06.13-12.30.45:944][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.30.47:184][809]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.30.47:212][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.30.47:212][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.30.47:212][809]PIE: New page: PIE session: PrincipalMap (13 juin 2020 16:30:47)
+[2020.06.13-12.30.47:212][809]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.30.47:215][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002942s)
+[2020.06.13-12.30.47:216][809]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.30.47:217][809]LogPlayLevel: PIE: World Init took: (0.001655s)
+[2020.06.13-12.30.47:217][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.004877s)
+[2020.06.13-12.30.47:260][809]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.06.13-12.30.47:325][809]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.30.47:336][809]LogInit: FAudioDevice initialized.
+[2020.06.13-12.30.47:345][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.30.47:346][809]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.30.47:347][809]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.30.47
+[2020.06.13-12.30.47:347][809]LogWorld: Bringing up level for play took: 0.000876
+[2020.06.13-12.30.47:347][809]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2020.06.13-12.30.47:354][809]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_PrincipalMap 0,507
+[2020.06.13-12.30.47:355][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.31.07:287][151]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.31.07:288][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.31.07:288][151]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.31.07:308][151]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.31.07:321][151]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.31.07:327][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.31.07:327][151]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap' with GeneratedClass '/Game/Maps/PrincipalMap.PrincipalMap_C' with ClassGeneratedBy '/Game/Maps/PrincipalMap.PrincipalMap:PersistentLevel.PrincipalMap'
+[2020.06.13-12.31.07:382][151]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.06.13-12.31.07:401][152]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2020.06.13-12.31.16:807][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.13-12.31.20:295][481]LogAIModule: Creating AISystem for world MenuMap
+[2020.06.13-12.31.20:299][481]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MenuMap.MenuMap
+[2020.06.13-12.31.20:343][481]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.06.13-12.31.21:848][481]LogSlate: Window 'Save Content' being destroyed
+[2020.06.13-12.31.21:903][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.06.13-12.31.22:211][481]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/PrincipalMap7863251241DDC7782F33F1B7429E3479.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/PrincipalMap.umap'
+[2020.06.13-12.31.22:252][481]LogFileHelpers: Saving map 'PrincipalMap' took 0.393
+[2020.06.13-12.31.22:283][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/table" FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Props/table.uasset" SILENT=true
+[2020.06.13-12.31.22:370][481]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/table8D67FC5449903039812BA8ACB9634507.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Props/table.uasset'
+[2020.06.13-12.31.22:392][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/vase" FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Props/vase.uasset" SILENT=true
+[2020.06.13-12.31.22:518][481]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/vaseDD8A4CC54FB094157D7088A18DF42799.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Props/vase.uasset'
+[2020.06.13-12.31.22:522][481]Cmd: MAP LOAD FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/MenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.13-12.31.22:522][481]LightingResults: New page: Lighting Build
+[2020.06.13-12.31.22:523][481]LoadErrors: New page: Loading map: MenuMap.umap
+[2020.06.13-12.31.22:524][481]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.31.22:524][481]MapCheck: New page: Map Check
+[2020.06.13-12.31.22:524][481]LightingResults: New page: Lighting Build
+[2020.06.13-12.31.22:569][481]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.06.13-12.31.22:570][481]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.13-12.31.22:614][481]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.06.13-12.31.22:672][481]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.13-12.31.22:672][481]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,201ms to complete.
+[2020.06.13-12.31.22:672][481]LogFileHelpers: Loading map 'MenuMap' took 0.151
+[2020.06.13-12.31.22:753][481]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.31.28:817][198]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.31.28:843][198]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.31.28:843][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.31.28:844][198]PIE: New page: PIE session: MenuMap (13 juin 2020 16:31:28)
+[2020.06.13-12.31.28:844][198]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.31.28:845][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001179s)
+[2020.06.13-12.31.28:846][198]LogAIModule: Creating AISystem for world MenuMap
+[2020.06.13-12.31.28:846][198]LogPlayLevel: PIE: World Init took: (0.001322s)
+[2020.06.13-12.31.28:846][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuMap.MenuMap to /Game/Maps/UEDPIE_0_MenuMap.MenuMap (0.002635s)
+[2020.06.13-12.31.28:884][198]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.06.13-12.31.28:950][198]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.31.28:965][198]LogInit: FAudioDevice initialized.
+[2020.06.13-12.31.28:973][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.31.28:974][198]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.31.28:975][198]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 0) at 2020.06.13-14.31.28
+[2020.06.13-12.31.28:975][198]LogWorld: Bringing up level for play took: 0.000491
+[2020.06.13-12.31.28:975][198]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2020.06.13-12.31.28:983][198]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MenuMap 0,137
+[2020.06.13-12.31.28:984][198]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.31.31:674][508]Cmd: r.SetRes 1920x1080
+[2020.06.13-12.31.31:674][508]r.SetRes = "1920x1080"
+[2020.06.13-12.31.32:865][647]LogNet: Browse: /Game/Maps/PrincipalMap
+[2020.06.13-12.31.32:865][647]LogLoad: LoadMap: /Game/Maps/PrincipalMap
+[2020.06.13-12.31.32:865][647]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.31.32:866][647]LogWorld: UWorld::CleanupWorld for MenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.31.32:913][647]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.06.13-12.31.32:914][647]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.31.32:918][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003903s)
+[2020.06.13-12.31.32:919][647]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.31.32:919][647]LogPlayLevel: PIE: World Init took: (0.001237s)
+[2020.06.13-12.31.32:919][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.005400s)
+[2020.06.13-12.31.32:919][647]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.31.32:921][647]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.31.32
+[2020.06.13-12.31.32:921][647]LogWorld: Bringing up level for play took: 0.000889
+[2020.06.13-12.31.32:923][647]LogLoad: Took 0.057517 seconds to LoadMap(/Game/Maps/UEDPIE_0_PrincipalMap)
+[2020.06.13-12.31.37:185][ 43]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.31.37:185][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.31.37:185][ 43]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.31.37:204][ 43]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.31.37:217][ 43]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.31.37:228][ 43]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.31.37:228][ 43]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.31.37:287][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.06.13-12.31.37:302][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2020.06.13-12.31.38:211][151]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.31.38:235][151]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.31.38:235][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.31.38:235][151]PIE: New page: PIE session: MenuMap (13 juin 2020 16:31:38)
+[2020.06.13-12.31.38:235][151]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.31.38:236][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001191s)
+[2020.06.13-12.31.38:238][151]LogAIModule: Creating AISystem for world MenuMap
+[2020.06.13-12.31.38:238][151]LogPlayLevel: PIE: World Init took: (0.001476s)
+[2020.06.13-12.31.38:238][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuMap.MenuMap to /Game/Maps/UEDPIE_0_MenuMap.MenuMap (0.002931s)
+[2020.06.13-12.31.38:282][151]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.06.13-12.31.38:348][151]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.31.38:363][151]LogInit: FAudioDevice initialized.
+[2020.06.13-12.31.38:373][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.31.38:373][151]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.31.38:374][151]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 0) at 2020.06.13-14.31.38
+[2020.06.13-12.31.38:374][151]LogWorld: Bringing up level for play took: 0.000513
+[2020.06.13-12.31.38:375][151]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2020.06.13-12.31.38:383][151]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MenuMap -0,465
+[2020.06.13-12.31.38:383][151]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.31.39:766][307]Cmd: r.SetRes 1920x1080
+[2020.06.13-12.31.39:766][307]r.SetRes = "1920x1080"
+[2020.06.13-12.31.41:851][552]LogNet: Browse: /Game/Maps/PrincipalMap
+[2020.06.13-12.31.41:851][552]LogLoad: LoadMap: /Game/Maps/PrincipalMap
+[2020.06.13-12.31.41:851][552]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.31.41:852][552]LogWorld: UWorld::CleanupWorld for MenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.31.41:898][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.06.13-12.31.41:898][552]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.31.41:902][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003085s)
+[2020.06.13-12.31.41:903][552]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.31.41:903][552]LogPlayLevel: PIE: World Init took: (0.001419s)
+[2020.06.13-12.31.41:903][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.004751s)
+[2020.06.13-12.31.41:903][552]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.31.41:905][552]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.31.41
+[2020.06.13-12.31.41:905][552]LogWorld: Bringing up level for play took: 0.000884
+[2020.06.13-12.31.41:907][552]LogLoad: Took 0.056183 seconds to LoadMap(/Game/Maps/UEDPIE_0_PrincipalMap)
+[2020.06.13-12.33.04:282][ 17]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.33.04:282][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.33.04:282][ 17]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.33.04:303][ 17]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.33.04:316][ 17]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.33.04:325][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.33.04:326][ 17]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.33.04:385][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.06.13-12.33.04:399][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2020.06.13-12.33.06:984][323]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.33.07:008][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.33.07:008][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.33.07:008][323]PIE: New page: PIE session: MenuMap (13 juin 2020 16:33:07)
+[2020.06.13-12.33.07:008][323]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.33.07:010][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001225s)
+[2020.06.13-12.33.07:011][323]LogAIModule: Creating AISystem for world MenuMap
+[2020.06.13-12.33.07:011][323]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2020.06.13-12.33.07:011][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuMap.MenuMap to /Game/Maps/UEDPIE_0_MenuMap.MenuMap (0.002444s)
+[2020.06.13-12.33.07:053][323]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.06.13-12.33.07:118][323]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.33.07:134][323]LogInit: FAudioDevice initialized.
+[2020.06.13-12.33.07:144][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.33.07:145][323]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.33.07:146][323]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 0) at 2020.06.13-14.33.07
+[2020.06.13-12.33.07:146][323]LogWorld: Bringing up level for play took: 0.000507
+[2020.06.13-12.33.07:147][323]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2020.06.13-12.33.07:154][323]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MenuMap 0,307
+[2020.06.13-12.33.07:154][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.33.09:360][578]Cmd: r.SetRes 800x600
+[2020.06.13-12.33.09:360][578]r.SetRes = "800x600"
+[2020.06.13-12.33.11:284][798]LogNet: Browse: /Game/Maps/PrincipalMap
+[2020.06.13-12.33.11:284][798]LogLoad: LoadMap: /Game/Maps/PrincipalMap
+[2020.06.13-12.33.11:284][798]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.33.11:284][798]LogWorld: UWorld::CleanupWorld for MenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.33.11:332][798]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.06.13-12.33.11:332][798]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.33.11:335][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003149s)
+[2020.06.13-12.33.11:337][798]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.33.11:337][798]LogPlayLevel: PIE: World Init took: (0.001677s)
+[2020.06.13-12.33.11:337][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.005055s)
+[2020.06.13-12.33.11:337][798]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.33.11:339][798]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.33.11
+[2020.06.13-12.33.11:339][798]LogWorld: Bringing up level for play took: 0.001082
+[2020.06.13-12.33.11:341][798]LogLoad: Took 0.057565 seconds to LoadMap(/Game/Maps/UEDPIE_0_PrincipalMap)
+[2020.06.13-12.33.24:338][325]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.33.24:339][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.33.24:339][325]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.33.24:359][325]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.33.24:372][325]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.33.24:381][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.33.24:381][325]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.33.24:437][325]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.06.13-12.33.24:453][326]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2020.06.13-12.33.25:526][452]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.13-12.33.25:549][452]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.33.25:550][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.13-12.33.25:550][452]PIE: New page: PIE session: MenuMap (13 juin 2020 16:33:25)
+[2020.06.13-12.33.25:550][452]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.33.25:551][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001421s)
+[2020.06.13-12.33.25:552][452]LogAIModule: Creating AISystem for world MenuMap
+[2020.06.13-12.33.25:552][452]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2020.06.13-12.33.25:552][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuMap.MenuMap to /Game/Maps/UEDPIE_0_MenuMap.MenuMap (0.002621s)
+[2020.06.13-12.33.25:591][452]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.06.13-12.33.25:655][452]LogInit: XAudio2 using 'Haut-parleurs (2- USB PnP Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.13-12.33.25:672][452]LogInit: FAudioDevice initialized.
+[2020.06.13-12.33.25:682][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.33.25:682][452]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.33.25:683][452]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 0) at 2020.06.13-14.33.25
+[2020.06.13-12.33.25:684][452]LogWorld: Bringing up level for play took: 0.000458
+[2020.06.13-12.33.25:684][452]LogOnline: OSS: Creating online subsystem instance for: :Context_72
+[2020.06.13-12.33.25:692][452]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MenuMap 0,845
+[2020.06.13-12.33.25:692][452]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.33.26:621][554]LogNet: Browse: /Game/Maps/PrincipalMap
+[2020.06.13-12.33.26:621][554]LogLoad: LoadMap: /Game/Maps/PrincipalMap
+[2020.06.13-12.33.26:621][554]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MenuMap
+[2020.06.13-12.33.26:622][554]LogWorld: UWorld::CleanupWorld for MenuMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.33.26:665][554]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.06.13-12.33.26:665][554]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.33.26:669][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003684s)
+[2020.06.13-12.33.26:670][554]LogAIModule: Creating AISystem for world PrincipalMap
+[2020.06.13-12.33.26:671][554]LogPlayLevel: PIE: World Init took: (0.001587s)
+[2020.06.13-12.33.26:671][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PrincipalMap.PrincipalMap to /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap (0.005567s)
+[2020.06.13-12.33.26:671][554]LogLoad: Game class is 'NewGameMode_C'
+[2020.06.13-12.33.26:673][554]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PrincipalMap.PrincipalMap up for play (max tick rate 0) at 2020.06.13-14.33.26
+[2020.06.13-12.33.26:673][554]LogWorld: Bringing up level for play took: 0.000814
+[2020.06.13-12.33.26:675][554]LogLoad: Took 0.054103 seconds to LoadMap(/Game/Maps/UEDPIE_0_PrincipalMap)
+[2020.06.13-12.33.30:598][  3]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.33.30:599][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.13-12.33.30:599][  3]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PrincipalMap
+[2020.06.13-12.33.30:617][  3]LogSlate: Window 'InfiniteNightmare Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.13-12.33.30:629][  3]LogWorld: UWorld::CleanupWorld for PrincipalMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.13-12.33.30:636][  3]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.13-12.33.30:637][  3]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MenuMap.MenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap' with GeneratedClass '/Game/Maps/MenuMap.MenuMap_C' with ClassGeneratedBy '/Game/Maps/MenuMap.MenuMap:PersistentLevel.MenuMap'
+[2020.06.13-12.33.30:691][  3]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.06.13-12.33.30:706][  4]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2020.06.13-12.33.39:484][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MenuMap" FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/MenuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.13-12.33.39:527][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.06.13-12.33.39:825][502]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/MenuMapE1031C7645A6AC0D9A7D1983B04C4198.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/MenuMap.umap'
+[2020.06.13-12.33.41:261][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MenuMap" FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/MenuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.13-12.33.41:306][662]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2020.06.13-12.33.41:592][662]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/MenuMap88AB8620420E7DC01165AAAB90BDF354.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/MenuMap.umap'
