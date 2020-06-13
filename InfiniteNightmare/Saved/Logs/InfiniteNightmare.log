@@ -954,3 +954,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.13-13.31.10:989][477]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
 [2020.06.13-13.31.11:004][478]LogPlayLevel: Display: Destroying online subsystem :Context_14
 [2020.06.13-13.33.49:613][ 67]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={B7BAB9D4-4C9A-6BBF-A9DA-D898F9B7362E}
+[2020.06.13-13.35.53:558][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MenuMap" FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/MenuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.13-13.35.53:600][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.06.13-13.35.53:870][746]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/MenuMapE8D982214B6B9A2027A7CFA54073F93E.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/MenuMap.umap'
+[2020.06.13-13.35.53:915][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MenuMap_BuiltData" FILE="C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/MenuMap_BuiltData.uasset" SILENT=true
+[2020.06.13-13.35.53:934][746]LogSavePackage: Moving 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Saved/MenuMap_BuiltData2885788E4B1CE4B797F047BD2096C612.tmp' to 'C:/Users/PC livio/Documents/GitHub/InfiniteNightmare/InfiniteNightmare/Content/Maps/MenuMap_BuiltData.uasset'
