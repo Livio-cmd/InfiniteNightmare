@@ -1,0 +1,38 @@
+Map :
+
+- Ville, 3 misions, indiqué par des flèches animées type de missions, (Maison, L'hospital, Les égoûts)...
+- Style de map "Ruines etc..." (détruit par le temps).
+
+Optimisation :
+
+- Arrière plan images de villes...
+- Eviter de trop mettre de faces...
+- Limite du FOV, éviter de trop mettre de folliage.
+
+Characteristiques du personnage :
+
+- Homme, Militaire, 34 ans, famille et amis perdus à l'age 7 ans de pour raison inconnues.
+- Depuis il est devenue solitaire.
+
+
+Characteristiques de Mobs :
+
+- Nom des mobs : Animatronixs
+
+- Types d'animatronix, {Java}
+- C'est un robot codés avec un langage de programmation inconnus, il est doté de caméra très puissante et infrarouge
+  donc il voie dans le noire et il a une distance de vue sur 150 mètres. Mais il à un champ de vision sur uniquement 50 degrès.
+  Quand il voie un hummain il lui cours après, au bout de 15 secondes il arrete sa course car ses moteurs chaufent vites
+  et il peut reprendre 5 secondes plus tard. Il est sourd, donc pour éviter de se faire courser il faut passer dans son dos.
+  Il peut être tuer uiquement grâce au """"""""""""""""""" cette arme lance du code informatique virus par ondes radio.
+  Il peut être ralenti pendant sa course mais uniquement dans le noir et grâce à une lampe torche.
+  Ont le retrouve souvent dans les égoûts mais cela n'empêche pas son apparition dans la ville.
+
+- Type d'animatronix {Fureur}
+- "Fureur" est à la base un hummain transformer en animatronix, donc il peut voir sur une distance de 100 mètres avec un angle de 70
+  degrès, il peut entendre tout se qui est proche de lui. Si il voit le joueur il se mets à crier très fort en courant très vite
+  50 uitées de moins que le joueur donc à une vitesse de 325 durant 20 secondes. Il ne voit pas dans le noir, et il peut être tuer par 
+  {Hache, arme à feu etc...} I n'est pas possible de le ralentire. Pour léviter il faut être est loin de lui.
+  Il n'apparait uniquement dans les zones ensoleiller et le jour.
+
+
