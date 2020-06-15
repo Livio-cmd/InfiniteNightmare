@@ -18,21 +18,31 @@ Characteristiques du personnage :
 Characteristiques de Mobs :
 
 - Nom des mobs : Animatronixs
+- Céer par une entreprise de nouvelle téchnologie avancées spécialisée dans le developpement de robot presque conscien nommée ""
 
 - Types d'animatronix, {Java}
 - C'est un robot codés avec un langage de programmation inconnus, il est doté de caméra très puissante et infrarouge
-  donc il voie dans le noire et il a une distance de vue sur 150 mètres. Mais il à un champ de vision sur uniquement 50 degrès.
+  donc il voie dans le noire et il a une distance de vue sur 150 mètres. Mais il à un champ de vision sur uniquement 70 degrès.
   Quand il voie un hummain il lui cours après, au bout de 15 secondes il arrete sa course car ses moteurs chaufent vites
   et il peut reprendre 5 secondes plus tard. Il est sourd, donc pour éviter de se faire courser il faut passer dans son dos.
-  Il peut être tuer uiquement grâce au """"""""""""""""""" cette arme lance du code informatique virus par ondes radio.
+  Il peut être tuer uiquement grâce à "Eugène" cette arme est un ordinateur protégé par code, il envoie un virus par ondes radio.
   Il peut être ralenti pendant sa course mais uniquement dans le noir et grâce à une lampe torche.
   Ont le retrouve souvent dans les égoûts mais cela n'empêche pas son apparition dans la ville.
 
 - Type d'animatronix {Fureur}
-- "Fureur" est à la base un hummain transformer en animatronix, donc il peut voir sur une distance de 100 mètres avec un angle de 70
+- "Fureur" est à la base un hummain transformer en animatronix, donc il peut voir sur une distance de 100 mètres avec un angle de 100
   degrès, il peut entendre tout se qui est proche de lui. Si il voit le joueur il se mets à crier très fort en courant très vite
   50 uitées de moins que le joueur donc à une vitesse de 325 durant 20 secondes. Il ne voit pas dans le noir, et il peut être tuer par 
-  {Hache, arme à feu etc...} I n'est pas possible de le ralentire. Pour léviter il faut être est loin de lui.
+  {Lance flamme} I n'est pas possible de le ralentire. Pour léviter il faut être est loin de lui.
   Il n'apparait uniquement dans les zones ensoleiller et le jour.
 
+- Type d'animatronix {Glaize}
+- "Glaize" est aussi un robot comme "java" mais son code contient un parefeu inpénétrable par n'importe quel ordinateur, 
+  il peut voir grêce à des capteurs thermiques jusqu'à 155 mètre et avec 120 degrès même dans le noir mais la nuit il fait tellement froid 
+  que cela gèle ses capteurs il devient alors aveugle est inoffenside, quand il voie le joueur il se met à courrir plus vite que le joueur 
+  et ne s'arrete jamais tant qu'il ne la pas tuer, pour l'éviter il faut être vigilant passer dans son dos ou à plus de 155 mètres de lui
+  pour ne pas être dans son champ de vision et pour le tuer il faut lui rentrer une barre métalique dans le corps elle se procure dans la mission des égoûts.
+  son spawn est plus rare que le reste des Animatronixs, il apparaît toujours juste à côtés des caisse éléctrique cassable grâce à un marteaux qui se trouve dans 
+  le garage de la mission "Maison". Il y à 7 caisse sur la map mais un marteau peut détuire seulement 3 à 4 caisse à lui seule le 2eme se trouve au shop caché dans la ville
+  il faudra trouver 3 bagues pour se procurer le 2eme marteau.
 
