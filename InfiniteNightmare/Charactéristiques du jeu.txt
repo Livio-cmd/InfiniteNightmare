@@ -37,9 +37,9 @@ Characteristiques de Mobs :
   Il n'apparait uniquement dans les zones ensoleiller et le jour.
 
 - Type d'animatronix {Glaize}
-- "Glaize" est aussi un robot comme "java" mais son code contient un parefeu inpénétrable par n'importe quel ordinateur, 
+- "Glaize" est aussi un robot comme "java" mais son code contient un pare-feu inpénétrable par n'importe quel ordinateur, 
   il peut voir grêce à des capteurs thermiques jusqu'à 155 mètre et avec 120 degrès même dans le noir mais la nuit il fait tellement froid 
-  que cela gèle ses capteurs il devient alors aveugle est inoffenside, quand il voie le joueur il se met à courrir plus vite que le joueur 
+  que cela gèle ses capteurs il devient alors aveugle est inoffensife, quand il voie le joueur il se met à courrir plus vite que le joueur 
   et ne s'arrete jamais tant qu'il ne la pas tuer, pour l'éviter il faut être vigilant passer dans son dos ou à plus de 155 mètres de lui
   pour ne pas être dans son champ de vision et pour le tuer il faut lui rentrer une barre métalique dans le corps elle se procure dans la mission des égoûts.
   son spawn est plus rare que le reste des Animatronixs, il apparaît toujours juste à côtés des caisse éléctrique cassable grâce à un marteaux qui se trouve dans 
